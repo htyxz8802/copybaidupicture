@@ -1,16 +1,15 @@
 # copybaidupicture
-下载百度图片中的指定分辨率的图片，
-格式：
-
-Usage: usagecopybaidupicpx.py -c <content not null> -i <pages> -w <width> --hg <height> -d <savepath not null>
-
-Options:
-  -h, --help   show this help message and exit
-  -c CONTENT   search content
-  -i PAGES     pages
-  -w WIDTH     width
-  --hg=HEIGHT  height
-  -d SAVEPATH  save path dir
+下载百度图片中的指定分辨率的图片，<br> 
+格式：<br> 
+Usage: usagecopybaidupicpx.py -c &lt;content not null&gt; -i &lt;pages&gt; -w &lt;width&gt; --hg &lt;height&gt; -d &lt;savepath not null&gt;<br> 
+<br> 
+Options:<br> 
+  -h, --help   show this help message and exit<br> 
+  -c CONTENT   search content<br> 
+  -i PAGES     pages<br> 
+  -w WIDTH     width<br> 
+  --hg=HEIGHT  height<br> 
+  -d SAVEPATH  save path dir<br> 
 
 
 ![ABC](https://github.com/htyxz8802/copybaidupicture/blob/master/Screenshot%20from%202017-06-25%2023-01-51.png)
