@@ -20,4 +20,4 @@ python copybaidupicpx.py -c 壁纸 -i 30 -d ~/Pictures/testpic/<br>
 
 
 ![结果截图](https://github.com/htyxz8802/copybaidupicture/blob/master/Screenshot%20from%202017-06-25%2023-01-51.png)
-![单张截图]()
+![单张截图](https://github.com/htyxz8802/copybaidupicture/blob/master/Screenshot%20from%202017-06-25%2023-23-04.png)
