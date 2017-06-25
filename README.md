@@ -7,8 +7,8 @@ Options:<br>
   -h, --help   show this help message and exit<br> 
   -c CONTENT    search content *(not null)* .<br>
   -i PAGES      pages<br> 
-  -w WIDTH      width<br> 
-  --hg=HEIGHT   height<br> 
+  -w WIDTH      width *(default 1920)*<br> 
+  --hg=HEIGHT   height *(default 1080)*<br> 
   -d SAVEPATH   save path dir *(not null)*<br> 
 <br>
 <br>
@@ -19,4 +19,5 @@ Options:<br>
 python copybaidupicpx.py -c 壁纸 -i 30 -d ~/Pictures/testpic/<br>
 
 
-![ABC](https://github.com/htyxz8802/copybaidupicture/blob/master/Screenshot%20from%202017-06-25%2023-01-51.png)
+![结果截图](https://github.com/htyxz8802/copybaidupicture/blob/master/Screenshot%20from%202017-06-25%2023-01-51.png)
+![单张截图]()
