@@ -13,8 +13,8 @@ Options:<br>
 <br>
 <br>
 <br>
+
 #结果的效果图<br>
--------------------
 执行的命令：<br>
 python copybaidupicpx.py -c 壁纸 -i 30 -d ~/Pictures/testpic/<br>
 
