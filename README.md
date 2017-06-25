@@ -1,6 +1,5 @@
 # copybaidupicture
-=======================
-下载百度图片中的指定分辨率的图片，<br> 
+下载百度图片中的指定分辨率的图片.<br> 
 格式：<br> 
 Usage: usagecopybaidupicpx.py -c &lt;content not null&gt; -i &lt;pages&gt; -w &lt;width&gt; --hg &lt;height&gt; -d &lt;savepath not null&gt;<br> 
 <br> 
