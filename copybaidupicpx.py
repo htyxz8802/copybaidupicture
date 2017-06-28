@@ -4,7 +4,7 @@ import os
 import re
 import time
 import optparse
-# 获取页面的json test github
+# 获取页面的json 
 def getManyPages(keyword,pages,width,height):
     print '[*] getManypages'
     param=[]
