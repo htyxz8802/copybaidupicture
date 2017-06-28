@@ -181,8 +181,6 @@ def main():
 
 
 if __name__ == '__main__':
-#    dataList = getManyPages('美女',10,1920,1080)  
- #   parseJson('美女',dataList,'/home/yangqiang/Pictures/testpic/') 
     main()
 
 
